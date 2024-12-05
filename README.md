@@ -43,6 +43,11 @@ An AI-powered app designed to assist teachers with grading by providing insightf
 
 ---
 
+## Github Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+---
+
 ## 📫 Let's Connect!
 - **LinkedIn**: [Minshuo(Alex) Piao](https://www.linkedin.com/in/minshuo-piao-08a5b2330/)
 - **GitHub**: You’re here! Check out my repos to see what I’ve been working on.
