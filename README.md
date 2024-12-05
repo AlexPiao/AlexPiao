@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋 I am Minshuo(Alex) Piao
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Minshuo(Alex) Piao
 
 **🎓 Graduate Student | Quantitative Methods in the Social Science (Data Science Focus)**
 I am passionate about the intersection of Data Analysis, Marketing Strategy, and Consumer Behaviors. My journey has taken me from Engineering (Automation) when I was an undergraduate. After that, aiming to combine mathematical skills in the Advertising field, I transferred to the major of Public Relations after a competitive interview. To acquire further progress in leveraging quantitative methods and the business world, I am pursuing a Master's Degree in the QMSS program at Columbia University. Recently, I’ve focused on **AI-driven tools for education** and further exploring the **mathematics of model building**.
