@@ -23,6 +23,7 @@ I am passionate about the intersection of Data Analysis, Marketing Strategy, and
 ## 🔭 What I'm Working On
 
 **🌟 [GradeMate](https://github.com/AlexPiao/GradeMate)** - *App Development*
+
 An AI-powered app designed to assist teachers with grading by providing insightful recommendations. I am working with QMSS Innovation Lab to exapnd this project and developing a **freemium model** that offers a free basic tier for individual educators and a premium version for schools, complete with enhanced features and integrations.
 
 ---
