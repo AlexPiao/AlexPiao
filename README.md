@@ -44,7 +44,7 @@ An AI-powered app designed to assist teachers with grading by providing insightf
 ---
 
 ## Github Stats
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?AlexPiao=anuraghazra&show_icons=true&theme=transparent)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexPiao&show_icons=true&theme=transparent)
 
 ---
 
