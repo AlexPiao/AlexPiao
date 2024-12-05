@@ -51,7 +51,7 @@ An AI-powered app designed to assist teachers with grading by providing insightf
 ## 📫 Let's Connect!
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][2.2]][2].
+You can find me on LinkedIn: [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
