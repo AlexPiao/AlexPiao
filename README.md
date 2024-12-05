@@ -49,7 +49,16 @@ An AI-powered app designed to assist teachers with grading by providing insightf
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [Minshuo(Alex) Piao](https://www.linkedin.com/in/minshuo-piao-08a5b2330/)
-- **GitHub**: You’re here! Check out my repos to see what I’ve been working on.
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/minshuo-piao-08a5b2330/
 
 I'm always open to applying quantitative analysis in the marketing field, leveraging different machine learning models and research methodologies. Let's connect and build something meaningful together!
