@@ -32,7 +32,7 @@ An AI-powered app designed to assist teachers with grading by providing insightf
 ## 🧠 Skills & Expertise
 
 **Programming & Libraries**  
-- **Python**: Scikit-learn, Matplotlib, Seaborn, Pandas, Imblearn, Keras
+- **Python**: Scikit-learn, PyTorch, Matplotlib, Seaborn, Pandas, Imblearn, Keras
 - **R**: Tidyverse, Rstanarm
 
 **Languages**  
